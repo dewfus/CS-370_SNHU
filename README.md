@@ -1,5 +1,7 @@
 **CS-370: Current and Emerging Trends in Computer Science**
 
+# Pirate Intelligent Agent (Deep Q-Learning)
+
 This project builds an intelligent agent, a pirate NPC, that learns to find its
 way through an 8x8 maze to a treasure cell using deep Q-learning. Instead of
 following a hard-coded route, the agent figures out its own way through by
